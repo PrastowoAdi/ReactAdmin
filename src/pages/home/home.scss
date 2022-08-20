@@ -15,5 +15,19 @@
     .charts {
         padding: 5px 20px;
     }
+
+    .listContainer {
+        box-shadow: 4px 11px 6px -7px rgba(201,201,201,0.83);
+        -webkit-box-shadow: 4px 11px 6px -7px rgba(201,201,201,0.83);
+        -moz-box-shadow: 4px 11px 6px -7px rgba(201,201,201,0.83);
+        padding: 20px;
+        margin: 20px;
+
+        .listTitle {
+            font-weight: 500;
+            margin-bottom: 15px;
+            color: #6b7280;
+        }
+    }
    }
 }
