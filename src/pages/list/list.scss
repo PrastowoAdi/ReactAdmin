@@ -1,7 +1,8 @@
 .list {
-    background-color: #fdba74;
+  display: flex;
+  width: 100%;
 
-    .title {
-        color: #f8fafc;
+    .listContainer {
+        flex: 6;
     }
 }
